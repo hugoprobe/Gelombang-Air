@@ -15,8 +15,8 @@
 
 #include <sys/time.h>
 #include "analysis.h"
-#include "../user defined lib/mesh.h"
-#include "../user defined lib/cutil_math.h"
+#include "../user-defined-lib/mesh.h"
+#include "../user-defined-lib/cutil_math.h"
 
 #include <vector_types.h>
 // includes, cuda
